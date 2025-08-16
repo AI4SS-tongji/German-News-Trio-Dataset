@@ -71,5 +71,5 @@
 作者 = {德国研究小助手@同济大学：郭婧、李夷、林卓然、孙萌、刘学达},
 标题 = {AI德国媒体观察日记},
 年份 = {2025},
-网址 = {https://github.com/German-News-Trio-Dataset}
+网址 = {https://github.com/AI4SS-tongji/German-News-Trio-Dataset}
 }
