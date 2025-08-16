@@ -66,12 +66,12 @@
 
 ## 许可协议
 采用 [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) 知识共享许可，使用时需注明来源：
+```bibtex
 @dataset{德国媒体观察2025,
-  author = {郭婧 and 李夷 and 林卓然 and 孙萌 and 刘学达},
+  author = {德国研究小助手@同济大学：郭婧、李夷、林卓然、孙萌、刘学达},
   title = {AI德国媒体观察日记},
   year = {2025},
-  publisher = {德国研究小助手@同济大学},
   url = {https://github.com/AI4SS-tongji/German-News-Trio-Dataset},
-  note = {采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)},
   license = {CC BY-NC-SA 4.0}
 }
+```
